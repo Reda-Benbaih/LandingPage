@@ -1,0 +1,22 @@
+.footer {
+  background-color: #00031c; 
+  padding: 40px 20px;
+  text-align: center; 
+  border-top: #3a3a3a solid 1px;
+}
+
+.footer-logo {
+  font-size: 1.4rem;
+  font-weight: bold;
+  background: linear-gradient(to bottom, #f4bb66, #ff6f00); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 10px;
+}
+
+.footer-copyright {
+  color: #666a85;
+  font-size: 0.9rem;
+  margin: 0;
+}

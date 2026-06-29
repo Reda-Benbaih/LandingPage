@@ -1,5 +1,6 @@
 import React from 'react';
 import './Hero.css';
+import heroImage from '../assets/heroImage.png'
 
 const Hero = () => {
   return (
@@ -16,7 +17,7 @@ const Hero = () => {
             </div>
         </div>
         <div className='heroImage'>
-            tswira
+            <img src={heroImage} alt="Illustration de la solution digitale" />
         </div>
     </section>
   );
